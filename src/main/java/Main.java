@@ -1,6 +1,6 @@
-import auto.Auto1;
-import auto.Auto2;
-import configs.AutosConfig;
+import training.autos.Auto1;
+import training.autos.Auto2;
+import training.configs.AutosConfig;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
